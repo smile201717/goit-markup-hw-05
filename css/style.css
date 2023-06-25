@@ -574,6 +574,70 @@ ul {
     background-color: #31D0AA;
 }
 
+.footer-subscribe-form {
+    color: #FFFFFF;
+    margin-left: 80px;
+
+}
+
+.footer-form {
+    display: flex;
+    gap: 24px;
+    margin-top: 16px;
+}
+
+
+.footer-input {
+    width: 264px;
+    height: 40px;
+    border: 1px solid #FFFFFF;
+    background-color: transparent;
+    font-size: 12px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    padding-left: 16px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+
+.footer-input::placeholder {
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: Roboto;
+    line-height: 2;
+    letter-spacing: 0.48px;
+    padding-left: 16px;
+    display: flex;
+
+}
+
+
+.footer-btn {
+    min-width: 165px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.footer-form-icon {
+    margin-left: 16px;
+    fill: #ffffff;
+}
+
+
+
 /*===============PORTFOLIO===============*/
 /*---------------HEADER---------------*/
 
