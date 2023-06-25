@@ -580,12 +580,17 @@ ul {
 .footer-subscribe-form {
     color: #FFFFFF;
     margin-left: 80px;
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 
 }
 
 .footer-form {
     display: flex;
-    /* gap: 24px;*/
+    gap: 24px;
     margin-top: 16px;
 }
 
