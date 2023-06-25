@@ -389,6 +389,7 @@ ul {
     width: 232px;
     height: 40px;
     justify-content: center;
+    margin-left: 16px;
 }
 
 .made-soc {
@@ -400,6 +401,7 @@ ul {
     margin-top: 8px;
     align-items: center;
     justify-content: center;
+
 }
 
 
@@ -529,9 +531,10 @@ ul {
     max-width: 264px;
 }
 
-.footer-soc {
+
+/*.footer-soc {
     margin-right: 120px;
-}
+}*/
 
 .foter-soc-text {
     color: #FFFFFF;
@@ -582,7 +585,7 @@ ul {
 
 .footer-form {
     display: flex;
-    gap: 24px;
+    /* gap: 24px;*/
     margin-top: 16px;
 }
 
@@ -629,6 +632,7 @@ ul {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin-left: 24px;
 }
 
 .footer-form-icon {
